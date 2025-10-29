@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Skrzynia z łupem",
+    "desc": "Zawiera rzadkie komponenty.",
+    "x": 600,
+    "y": 300,
+    "icon": ".png",
+    "type": ""
+  }
+]

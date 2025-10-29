@@ -1,0 +1,34 @@
+[
+  {
+    "name": "???",
+    "desc": "idk zajebałem z innej stronki",
+    "x": 855,
+    "y": 210,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Dam Surveillance Key",
+    "desc": "",
+    "x": 290,
+    "y": 590,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Dam Staff Key",
+    "desc": "Parter",
+    "x": 585,
+    "y": 645,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Control Centre Tower Key",
+    "desc": "Top of the tower",
+    "x": 638,
+    "y": 632,
+    "icon": "keycard.png",
+    "type": "keycard"
+  }
+]

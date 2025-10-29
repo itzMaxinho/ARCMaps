@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Outskirts Bunker Key",
+    "desc": "",
+    "x": 200,
+    "y": 510,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Warehouse Key",
+    "desc": "",
+    "x": 383,
+    "y": 165,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Trench Tower Key",
+    "desc": "",
+    "x": 520,
+    "y": 180,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Spaceport Ground Control Key",
+    "desc": "",
+    "x": 585,
+    "y": 545,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Spaceport Container Storage Key",
+    "desc": "Top of the storage",
+    "x": 638,
+    "y": 632,
+    "icon": "keycard.png",
+    "type": "keycard"
+  }
+]

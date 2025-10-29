@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Hospital Key",
+    "desc": "-",
+    "x": 425,
+    "y": 225,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Town Hall Key",
+    "desc": "-",
+    "x": 500,
+    "y": 580,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Residential Master Key 1",
+    "desc": "Parter, 1 out of 2",
+    "x": 195,
+    "y": 719,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Residential Master Key 2",
+    "desc": "1 out of 2",
+    "x": 370,
+    "y": 810,
+    "icon": "keycard.png",
+    "type": "keycard"
+  },
+  {
+    "name": "Test Blueprint",
+    "desc": "Test",
+    "x": 450,
+    "y": 830,
+    "icon": "blueprint.png",
+    "type": "blueprint"
+  },
+  {
+    "name": "Weapon Case",
+    "desc": "zajebane z innej stronki",
+    "x": 205,
+    "y": 295,
+    "icon": "weaponCase.png",
+    "type": "weaponCase"
+  },
+  {
+    "name": "Weapon Case",
+    "desc": "zajebane z innej stronki",
+    "x": 490,
+    "y": 710,
+    "icon": "weaponCase.png",
+    "type": "weaponCase"
+  },
+  {
+    "name": "Weapon Case",
+    "desc": "zajebane z innej stronki",
+    "x": 460,
+    "y": 740,
+    "icon": "weaponCase.png",
+    "type": "weaponCase"
+  },
+  {
+    "name": "Weapon Case",
+    "desc": "zajebane z innej stronki",
+    "x": 380,
+    "y": 730,
+    "icon": "weaponCase.png",
+    "type": "weaponCase"
+  },
+  {
+    "name": "Weapon Case",
+    "desc": "zajebane z innej stronki",
+    "x": 170,
+    "y": 770,
+    "icon": "weaponCase.png",
+    "type": "weaponCase"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 260,
+    "y": 130,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 440,
+    "y": 70,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 585,
+    "y": 205,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 760,
+    "y": 250,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 350,
+    "y": 315,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 590,
+    "y": 320,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 10,
+    "y": 470,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 11,
+    "y": 750,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 415,
+    "y": 705,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 950,
+    "y": 670,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 650,
+    "y": 775,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 670,
+    "y": 870,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  },
+  {
+    "name": "Spawn Point",
+    "desc": "",
+    "x": 800,
+    "y": 920,
+    "icon": "spawnPoint.png",
+    "type": "spawnPoint"
+  }
+]

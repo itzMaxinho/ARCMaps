@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ARC Maps</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+
+<body>
+  <header>
+    <div id="logo">
+      <h1 class="A">A</h1>
+      <h1 class="R">R</h1>
+      <h1 class="C">C</h1>
+      <h1 class="Maps">Maps</h1>
+    </div>
+    <div id="search-container">
+      <input type="text" id="item-search" placeholder="Szukaj itemów...">
+      <span id="search-icon">&#128269;</span>
+    </div>
+  </header>
+
+  <div id="map-buttons">
+    <span class="map-btn active" data-map="1">DAM BATTLEGROUNDS</span>
+    <span class="map-btn" data-map="2">BURIED CITY</span>
+    <span class="map-btn" data-map="3">THE SPACEPORT</span>
+    <span class="map-btn" data-map="4">BLUE GATE</span>
+    <span class="map-btn" data-map="5">???</span>
+  </div>
+
+  <div id="sidebar">
+    <div id="toggle-sidebar">&#9664;</div>
+    <div id="filters">
+      <div id="filters-controls">
+        <button id="check-all-btn">Show all</button>
+        <button id="uncheck-all-btn">Hide all</button>
+      </div>
+      <label><img src="assets/icons/keycard.png" class="filter-icon">
+        <input type="checkbox" value="keycard" checked> Keycard
+      </label>
+      <label><img src="assets/icons/blueprint.png" class="filter-icon">
+        <input type="checkbox" value="blueprint" checked> Blueprint
+      </label>
+      <label><img src="assets/icons/weaponCase.png" class="filter-icon">
+        <input type="checkbox" value="weaponCase" checked> Weapon Case
+      </label>
+      <label><img src="assets/icons/raidersHatch.png" class="filter-icon">
+        <input type="checkbox" value="raidersHatch" checked> Raider's Hatch
+      </label>
+      <label><img src="assets/icons/spawnPoint.png" class="filter-icon">
+        <input type="checkbox" value="spawnPoint" checked> Spawn Point
+      </label>
+      <label><img src="assets/icons/marker.png" class="filter-icon">
+        <input type="checkbox" value="marker" checked> Markery
+      </label>
+    </div>
+  </div>
+
+  <main>
+    <div id="map"></div>
+  </main>
+
+  <footer>
+    <p>Dojebane Mapy | Bierzcie i jedzcie z tego wszyscy</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
