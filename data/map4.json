@@ -1,10 +1,18 @@
 [
   {
-    "name": "Skrzynia z łupem",
-    "desc": "Zawiera rzadkie komponenty.",
-    "x": 600,
-    "y": 300,
-    "icon": ".png",
-    "type": ""
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 327,
+    "y": 232,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 15,
+    "y": 390,
+    "icon": "fruits.png",
+    "type": "fruits"
   }
 ]

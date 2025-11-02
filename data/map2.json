@@ -1,7 +1,7 @@
 [
   {
     "name": "Hospital Key",
-    "desc": "-",
+    "desc": "",
     "x": 425,
     "y": 225,
     "icon": "keycard.png",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Town Hall Key",
-    "desc": "-",
+    "desc": "",
     "x": 500,
     "y": 580,
     "icon": "keycard.png",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Weapon Case",
-    "desc": "zajebane z innej stronki",
+    "desc": "",
     "x": 205,
     "y": 295,
     "icon": "weaponCase.png",
@@ -73,11 +73,107 @@
   },
   {
     "name": "Weapon Case",
-    "desc": "zajebane z innej stronki",
+    "desc": "",
     "x": 170,
     "y": 770,
     "icon": "weaponCase.png",
     "type": "weaponCase"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 800,
+    "y": 845,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 620,
+    "y": 880,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 635,
+    "y": 902,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 780,
+    "y": 280,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 695,
+    "y": 445,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 350,
+    "y": 57,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 260,
+    "y": 180,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 200,
+    "y": 255,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 195,
+    "y": 240,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 337,
+    "y": 188,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn",
+    "x": 380,
+    "y": 195,
+    "icon": "fruits.png",
+    "type": "fruits"
+  },
+  {
+    "name": "Fruit Bin",
+    "desc": "Has a chance to spawn, underneath the bridge",
+    "x": 170,
+    "y": 880,
+    "icon": "fruits.png",
+    "type": "fruits"
   },
   {
     "name": "Spawn Point",
